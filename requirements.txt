@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pymysql
+pandas
+apscheduler
+matplotlib
+seaborn
